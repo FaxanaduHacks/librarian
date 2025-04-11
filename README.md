@@ -40,10 +40,10 @@ Navigate to the repository directory:
 cd librarian
 ````
 
-Run the barcode_scanner.py script:
+Run the librarian.py script:
 
 ```bash
-python barcode_scanner.py
+python librarian.py
 ```
 
 A webcam feed window will appear showing the camera's view. Slide books with ISBN barcodes underneath the camera to detect and store their ISBNs.
